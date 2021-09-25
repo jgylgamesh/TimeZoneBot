@@ -39,7 +39,7 @@ It is generally much easier to manage the bot through process management, such a
 2. Select your app, find the client ID and copy it
 
 3. Append the client ID from step 2 onto the very end of the following URL
-    * **https://discordapp.com/oauth2/authorize?scope=bot&permissions=67177536&client_id=**
+    * **https://discord.com/api/oauth2/authorize?permissions=274945099776&scope=bot&client_id=**
     * Only use this link for your own server, as if the bot is added to more than one then Discord's rate limits kick in and it will stop updating properly!
     * The permissions the bot requests are the ONLY ones that it requires (it especially needs to be able to edit its own nickname!)
     * By default, the bot can only see, read, and appear in channels that @everyone has access to - meaning if you want to be able to see it in a staff/admin/moderator channel, you will have to manually add those permissions to the bot in your server
