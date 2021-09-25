@@ -1,0 +1,33 @@
+{
+  "name": "ServerTimeBot",
+  "version": "2.0.0",
+  "description": "Bot to display FFXIV server time",
+  "homepage": "",
+  "author": {
+    "name": "JGylgamesh",
+    "email": "janto.ffxiv@googlemail.com",
+    "url": ""
+	},
+	"repository": "/ServerTimeBot",
+	"private": true,
+	"engines": {
+	"node": ">=14.0.0"
+	},
+	"files": [
+	"lib"
+	],
+	"main": "./st_bot.js",
+	"keywords": [
+	""
+	],
+	"scripts": {
+	"bot": "node ./st_bot.js"
+	},
+	"dependencies": {
+	"discord.js": "^13.1.0",
+	"ffmpeg": "^0.0.4",
+	"moment-timezone": "^0.5.31",
+	"node-persist": "^2.0.10",
+	"node-schedule": "^1.2.1"
+	}
+}

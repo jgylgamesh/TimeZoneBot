@@ -1,0 +1,8 @@
+node_modules
+coverage
+.node-persist
+test
+.editorconfig
+util/Util.js
+package-lock.json
+out
