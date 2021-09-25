@@ -2,7 +2,7 @@
 
 Timezones are hard. This bot sits in your server's member list (the sidebar on the right) and displays the time and date for your community. It's that simple.
 
-![Example Picture](https://i.imgur.com/oSi8lhK.png)
+![Example Picture](https://i.imgur.com/LXzDkHT.png)
 
 ## Installation
 
